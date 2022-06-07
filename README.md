@@ -1,4 +1,4 @@
-# Projects
+###Kaggle Titanic Machine Learning competition
 Data science projects
 
 #Kaggle Titanic Contest
